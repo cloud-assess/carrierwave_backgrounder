@@ -1,4 +1,7 @@
 # encoding: utf-8
+
+require 'fileutils'
+
 module CarrierWave
   module Workers
 
